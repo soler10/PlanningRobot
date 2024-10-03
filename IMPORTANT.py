@@ -1,1 +1,3 @@
-//This project have been considered to be too mediocre, if inprovments are done, the code will be updated.
+"""
+This project has been considered too mediocre. If improvements are made, the code will be updated."
+"""
